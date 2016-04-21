@@ -6,8 +6,10 @@ public class Arrays {
 
     System.out.println(vector[0]+"Carles");
 
-
     System.out.println(vector[0] + " Carles y Zeus + andres");
+
+    
+    System.out.println(vector[0] + " Carles y Zeus"+ "por Lorena");
 
   }
 }
