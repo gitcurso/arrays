@@ -1,5 +1,6 @@
 public class Arrays {
   public static void main(String[] args) {
-    System.out.println("hola");
+    int[] vector = new int[20];
+    System.out.println(vector[0]);
   }
 }
