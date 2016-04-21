@@ -7,5 +7,7 @@ public class Arrays {
     System.out.println("a la enesima lo modifico");
     System.out.println();
     System.out.println("prueba");
+    System.out.println(vector[0] + " Carles y Zeus"+ "por Lorena" + "por Sergio" + "        Markus");
+
   }
 }
