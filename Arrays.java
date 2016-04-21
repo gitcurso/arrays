@@ -4,6 +4,7 @@ public class Arrays {
     System.out.println(vector[0]);
     System.out.println("Markus");
     System.out.println(vector[0]+"Carles, Zeus y Markus");
+    System.out.println("a la enesima lo modifico");
 
   }
 }
