@@ -15,7 +15,7 @@ public class Arrays {
 
     System.out.println(vector[0] + " Carles y Zeus"+ "por Lorena" + "por Sergio");
 
-    
+    System.out.println(vector[0] + " Carles y Zeus"+ "por Lorena" + "por dani");
     
     
     
